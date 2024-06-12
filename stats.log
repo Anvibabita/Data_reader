@@ -1,0 +1,93 @@
+------------------------------------------------------------------------------------
+Date: 2/3/2022 -- 11:16:51 (uptime: 0d, 00h 00m 00s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+first.pkts                                    | Total                     | 214
+decoder.bytes                                 | Total                     | 15342
+decoder.ipv4                                  | Total                     | 214
+decoder.ethernet                              | Total                     | 214
+decoder.tcp                                   | Total                     | 214
+decoder.avg_pkt_size                          | Total                     | 71
+decoder.max_pkt_size                          | Total                     | 147
+flow.tcp                                      | Total                     | 9
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 6
+flow.wrk.flows_evicted_needs_work             | Total                     | 7
+flow.wrk.flows_evicted_pkt_inject             | Total                     | 13
+flow.wrk.flows_injected                       | Total                     | 7
+tcp.sessions                                  | Total                     | 8
+tcp.syn                                       | Total                     | 8
+tcp.synack                                    | Total                     | 8
+app_layer.flow.dnp3                           | Total                     | 7
+app_layer.tx.dnp3                             | Total                     | 57
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9400
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 6
+flow.mgr.flows_notimeout                      | Total                     | 6
+tcp.memuse                                    | Total                     | 7274496
+tcp.reassembly_memuse                         | Total                     | 1179648
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 2/3/2022 -- 11:16:51 (uptime: 0d, 00h 00m 00s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+second.pkts                                   | Total                     | 214
+decoder.bytes                                 | Total                     | 15342
+decoder.ipv4                                  | Total                     | 214
+decoder.ethernet                              | Total                     | 214
+decoder.tcp                                   | Total                     | 214
+decoder.avg_pkt_size                          | Total                     | 71
+decoder.max_pkt_size                          | Total                     | 147
+flow.tcp                                      | Total                     | 9
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 6
+flow.wrk.flows_evicted_needs_work             | Total                     | 7
+flow.wrk.flows_evicted_pkt_inject             | Total                     | 13
+flow.wrk.flows_injected                       | Total                     | 7
+tcp.sessions                                  | Total                     | 8
+tcp.syn                                       | Total                     | 8
+tcp.synack                                    | Total                     | 8
+app_layer.flow.dnp3                           | Total                     | 7
+app_layer.tx.dnp3                             | Total                     | 57
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9400
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 6
+flow.mgr.flows_notimeout                      | Total                     | 6
+tcp.memuse                                    | Total                     | 7274496
+tcp.reassembly_memuse                         | Total                     | 1179648
+new1.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 9/9/2022 -- 11:16:51 (uptime: 0d, 00h 00m 00s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+third.pkts                                    | Total                     | 214
+aaaaaaa.bytes                                 | Total                     | 15342
+decoder.ipv4                                  | Total                     | 214
+aaaaaaa.ethernet                              | Total                     | 214
+decoder.tcp                                   | Total                     | 214
+decoder.avg_pkt_size                          | Total                     | 71
+ccc1234.max_pkt_size                          | Total                     | 147
+flow.tcp                                      | Total                     | 9
+flow.wrk.spare_sync_avg                       | Total                     | 100
+2345.wrk.spare_sync                           | Total                     | 6
+6777.wrk.flows_evicted_needs_work             | Total                     | 7
+flow.wrk.flows_evicted_pkt_inject             | Total                     | 13
+flow.wrk.flows_injected                       | Total                     | 7
+bbb.sessions                                  | Total                     | 8
+ccc.syn                                       | Total                     | 8
+tcp.synack                                    | Total                     | 8
+app_layer.flow.dnp3                           | Total                     | 7
+app_layer.tx.dnp3                             | Total                     | 57
+flow.mgr.full_hash_pass                       | Total                     | 1
+3456.spare                                    | Total                     | 9400
+flow.mgr.rows_maxlen                          | Total                     | 1
+2344.mgr.flows_checked                        | Total                     | 6
+flow.mgr.flows_notimeout                      | Total                     | 6
+tcp.memuse                                    | Total                     | 7274496
+tcp.reassembly_memuse                         | Total                     | 1179648
+anvi.memuse                                   | Total                     | 7394304
